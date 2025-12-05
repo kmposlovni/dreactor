@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DreactorApplication {
 	public static void main(String[] args) {
-        System.out.println("Small change");
+        System.out.println("Small change (2)");
 		SpringApplication.run(DreactorApplication.class, args);
 	}
 }
